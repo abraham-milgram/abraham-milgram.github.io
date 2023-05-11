@@ -1,0 +1,34 @@
+/*Make the header class function as a header*/
+body {
+    background-color: white;
+    font-family: "Aberto", sans-serif;;
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+    /* make flexbox work */
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+}
+#header {
+    /* center the header */
+    margin: 0 auto;
+    background-color: rgb(73, 43, 43);
+    color: #ffffff;
+    text-align: left;
+    padding: 5px;
+    top: 0;
+    width: 50%;
+}
+.site-title {
+    text-decoration: none;
+    /*make the link black*/
+    color: black;
+}
+#sub {
+    font-size: small;
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.5);
+    /*remove the underline from the link*/
+
+}
