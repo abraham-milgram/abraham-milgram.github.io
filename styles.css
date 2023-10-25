@@ -13,12 +13,23 @@ body {
 #header {
     /* center the header */
     margin: 0 auto;
-    background-color: rgb(73, 43, 43);
+    /*background-color: rgb(73, 43, 43);*/
     color: #ffffff;
     text-align: left;
     padding: 5px;
     top: 0;
     width: 50%;
+}
+#info {
+    margin: 0 auto;
+    text-align: left;
+    padding: 5px;
+    top: 0;
+    width: 50%;
+    font-size: 15px;
+}
+p {
+    font-weight: bold;
 }
 .site-title {
     text-decoration: none;
