@@ -14,21 +14,24 @@ body {
     /* center the header */
     margin: 0 auto;
     color: #ffffff;
-    text-align: left;
+    text-align: center;
     padding: 5px;
     top: 0;
     width: 50%;
 }
 #info {
     margin: 0 auto;
-    text-align: left;
+    text-align: center;
     padding: 5px;
     top: 0;
-    width: 50%;
+    width: 25%;
     font-size: 15px;
 }
 p {
     font-weight: bold;
+}
+.info-block {
+    text-align: left;
 }
 .site-title {
     text-decoration: none;
