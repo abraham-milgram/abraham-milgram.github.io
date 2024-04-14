@@ -21,10 +21,10 @@ body {
 }
 #info {
     margin: 0 auto;
-    text-align: center;
+    text-align: left;
     padding: 5px;
     top: 0;
-    width: 25%;
+    width: 75%;
     font-size: 15px;
 }
 p {
