@@ -14,10 +14,10 @@ body {
     /* center the header */
     margin: 0 auto;
     color: #ffffff;
-    text-align: center;
+    text-align: left;
     padding: 5px;
-    top: 0;
-    width: 50%;
+    padding-top: 6vh;
+    width: 75%;
 }
 #info {
     margin: 0 auto;
